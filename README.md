@@ -44,4 +44,10 @@ The two reasons to use XGBoost are also the two goals of the project:
 
     Execution Speed.
     Model Performance.
+    
+XGBoost and Gradient Boosting Machines (GBMs) are both ensemble tree methods that apply the principle of boosting weak learners (CARTs generally) using the gradient descent architecture. However, XGBoost improves upon the base GBM framework through systems optimization and algorithmic enhancements.
+
+
+<br/>![What is XGBoost](https://miro.medium.com/max/875/1*FLshv-wVDfu-i54OqvZdHg.png)<br/>
+
 
